@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @capsongabriel
+- Currently learning to code and getting into game development at the same time.
+- Complete rookie, you'll probably see me asking questions a lot.
